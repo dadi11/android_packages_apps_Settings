@@ -73,9 +73,14 @@
     <string name="themes_settings_title">Themes</string>
 
     <!-- DU Changelog -->
-    <string name="duchangelog">Changelog</string>
+    <string name="duchangelog">DU Changelog</string>
     <string name="du_summary">Check to see what has changed in DU</string>
     <string name="du_app_name">DU Changelog</string>
+
+    <!-- Build Changelog -->
+    <string name="changelog_du_title">Build Changelog</string>
+    <string name="changelog_du_error">Unable to load changelog</string>
+    <string name="changelog_du_summary">Check to see changes in current build</string>
 
     <!-- DU Updater -->
     <string name="duupdater">Updater</string>

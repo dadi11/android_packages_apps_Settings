@@ -36,6 +36,12 @@
                     android:targetClass="us.zamzow.mazwoz.dirtyunicornschangelog.MainActivity" />
         </PreferenceScreen>
 
+        <!-- Build Changelog -->
+        <PreferenceScreen android:key="changelog_du"
+                android:title="@string/changelog_du_title"
+                android:summary="@string/changelog_du_summary"                
+                android:fragment="com.android.settings.du.Changelog" />
+
         <!-- DU Updater -->
         <PreferenceScreen
             android:key="duupdater"
